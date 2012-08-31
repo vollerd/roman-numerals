@@ -12,3 +12,5 @@ end
 
 puts roman_to_num('MCMLXXVIII')
 
+# lack of commenting and short variable names are because of submission to therubygame challenges!
+
